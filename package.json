@@ -1,6 +1,6 @@
 {
-  "name": "@on-campus/vibes",
-  "displayName": "Vibes",
+  "name": "oncampus-vibes",
+  "displayName": "Vibes - OnCampus",
   "description": "Vibes is a meticulously crafted dark color theme for Visual Studio Code that aims to provide a visually pleasing and comfortable coding experience.",
   "publisher": "DeeprajBaidya",
   "version": "1.0.0",
