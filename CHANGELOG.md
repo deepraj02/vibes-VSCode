@@ -1,9 +1,10 @@
-# Change Log
+# Changelog
+All notable changes to the "OnCampus - Vibes" extension will be documented in this file.
 
-All notable changes to the "Vibes-OnCampus" extension will be documented in this file.
+## [1.0.0] - 18-12-2023
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
 
-## [Unreleased]
-
-- Initial release
+- Initial release of OnCampus - Vibes
+- Dark theme that is easy on the eyes
+- Customizable color settings
