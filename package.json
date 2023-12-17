@@ -1,14 +1,25 @@
 {
   "name": "@on-campus/vibes",
   "displayName": "Vibes",
-  "description": "An Amazing Theme",
-  "version": "0.0.1",
+  "description": "Vibes is a meticulously crafted dark color theme for Visual Studio Code that aims to provide a visually pleasing and comfortable coding experience.",
+  "publisher": "DeeprajBaidya",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "vibes",
+    "on-campus",
+    "asthetic",
+    "dark",
+    "light",
+    "high-contrast"
+  ],
+  "icon": "assets/vibeslo.png",
   "contributes": {
     "themes": [
       {
@@ -17,5 +28,15 @@
         "path": "./themes/Vibes-OnCampus-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OnCampus-Community/vibes-on-campus"
+  },
+  "author": "Deepraj Baidya <https://github.com/deepraj02> (https://github.com/deepraj02)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OnCampus-Community/vibes-on-campus/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=fix%3A+"
+  },
+  "homepage": "https://github.com/OnCampus-Community/vibes-on-campus#readme"
 }
