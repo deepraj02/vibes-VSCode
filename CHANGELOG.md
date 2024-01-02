@@ -1,6 +1,15 @@
 # Changelog
 All notable changes to the "OnCampus - Vibes" extension will be documented in this file.
 
+
+## [1.0.2] - 02-01-2024
+
+### Added
+
+- README assets not showing -fix
+- Terminal Section - enhancements
+
+
 ## [1.0.1] - 18-12-2023
 
 ### Added
