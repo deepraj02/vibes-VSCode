@@ -53,7 +53,7 @@
 	  "activityBar.foreground": "#e4d0f5",
 	  "activityBarBadge.background": "#ff8952",
 	  "activityBarBadge.foreground": "#010a17",
-	  "sideBar.background": "#141416",
+	  "sideBar.background": "#111115",
 	  "sideBar.border": "#293045",
 	  "sideBarSectionHeader.background": "#0C0E14",
 	  "titleBar.activeForeground": "#9da5b4",
@@ -71,7 +71,15 @@
 	  "panel.border": "#293045",
 	  "statusBar.focusBorder": "#0C0E12",
 	  "input.border": "#293045",
-	  "sash.hoverBorder": "#293045"
+	  "sash.hoverBorder": "#293045",
+	  "terminal.selectionBackground": "#2a34464f",
+	  //Terminal Pannel:
+
+	  "panel.background": "#111115",
+	  "panelTitle.activeForeground": "#e4d0f5",
+	  "panelTitle.inactiveForeground": "#6b717d",
+	  "panelTitle.activeBorder": "#d7b85b",
+	  
 	},
 	"tokenColors": [
 	  {
